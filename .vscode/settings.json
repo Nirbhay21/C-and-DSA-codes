@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "concepts": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "string_view": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "bitset": "cpp",
+        "algorithm": "cpp",
+        "iosfwd": "cpp"
+    }
+}
